@@ -6,7 +6,7 @@
 | Name                 | Role                          |
 | -------------------- | ----------------------------- |
 | พีรกานต์ ตันสุริวงค์     | Project Manager / Product|
-| สมาชิกทีม            |              |
+| ตปณต วัตถา           | Embedded / IoT Developer |
 | คมพล ศิริโสภณพร           | Project Manager / Scrum Lead |
 | คุณาสิน ขจรกุล         | Documentation / Demo Lead |
 
