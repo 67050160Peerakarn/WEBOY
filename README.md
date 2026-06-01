@@ -8,7 +8,7 @@
 | พีรกานต์ ตันสุริวงค์     | Project Manager / Product|
 | สมาชิกทีม            |              |
 | สมาชิกทีม            |             |
-| คุณาสิน           |             |
+| คุณาสิน ขจรกุล         | Documentation / Demo Lead |
 
 ---
 
